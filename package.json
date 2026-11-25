@@ -1,0 +1,1 @@
+{"description":"Writes the funniest one-line famous last words — a tombstone epitaph of 150 characters or fewer — to /output/entry.txt.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"famous-last-words-epitaph","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
